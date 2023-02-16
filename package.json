@@ -1,0 +1,16 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "curso basico de programacion ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecma",
+    "jscript",
+    "ecmascript"
+  ],
+  "author": "cheibeck - gomez.agustin@outlook.com.ar", 
+  "license": "ISC" "MIT"
+}
