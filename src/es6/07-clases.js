@@ -67,5 +67,5 @@ class user{
 
 const david2 = new user('David', 15)
 console.log(david2.greeting())
-console.log(david2.age)
-console.log(david2.name)
+console.log(david2.uAge)
+console.log(david2.uAge = 20)
