@@ -11,7 +11,10 @@
     "jscript",
     "ecmascript"
   ],
-  "author": "cheibeck - gomez.agustin@outlook.com.ar", 
+  "author": "cheibeck - gomez.agustin@outlook.com.ar",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
